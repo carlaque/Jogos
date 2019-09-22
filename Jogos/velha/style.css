@@ -23,6 +23,8 @@ div{
     background-size: 50%;
     background-position: center;
     background-repeat: no-repeat;
+
+    
 }
 
 #d1{
@@ -70,4 +72,12 @@ footer h1 {
 
 img {
     width: 95%;
+}
+
+element.style {
+    background: url(imagens/O.png);
+    /* width: 100px;
+    height: 200px; */
+    align-content: center;
+    justify-content: center;
 }
